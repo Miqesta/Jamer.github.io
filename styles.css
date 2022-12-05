@@ -1,0 +1,178 @@
+@import url("//cdn.web-fonts.ge/fonts/ka-lortkipanidze/css/ka-lortkipanidze.min.css");
+
+body{
+    background-color: rgb(71, 16, 116);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    font-family: "KA_LORTKIPANIDZE", sans-serif;
+    font-weight: 500;
+}
+.jamer{
+    width: 400px;
+    height: 300px;
+    box-shadow: 1px 1px 100px blue;
+     
+     margin-top: 200px;
+    margin-left: 300px;
+    border-radius: 360px;
+}
+.satauri{
+    font-size: 40px;
+    color: yellow;
+    text-shadow: 2px 2px 30px black;
+    font-family: "KA_LORTKIPANIDZE", sans-serif;
+    margin-left: 270px;
+   
+    
+}
+.jameragwera{
+    font-size: 20px;
+    color: yellow;
+    text-shadow: 2px 2px 30px black;
+    font-family: "KA_LORTKIPANIDZE", sans-serif;
+    margin-left: 340px;
+
+}
+
+.social-network{
+    width: 850px;
+    margin-left: 60px;
+    margin-top: 1.5cm;
+}
+.social-network i{
+    font-size: 50px;
+    margin-left: 100px;
+    text-decoration: none;
+
+}
+
+.social-network a{
+    text-decoration: none;
+}
+
+.fa-youtube {
+    color: red;
+    transition: 0.5s;
+}
+.fa-youtube:hover{
+    font-size: 60px;
+}
+
+
+.fa-instagram{
+    color: pink;
+    transition: 0.5s;
+
+}
+.fa-instagram:hover{
+    font-size: 60px;
+}
+
+
+.fa-facebook{
+    color: blue;
+    transition: 0.5s;
+
+}
+.fa-facebook:hover{
+    font-size: 60px;
+}
+
+
+.fa-tiktok{
+    color: rgb(75, 5, 5);
+    transition: 0.5s;
+
+}
+.fa-tiktok:hover{
+    font-size: 60px;
+}
+
+
+.fa-discord{
+    color: rgb(42, 42, 224);
+    transition: 0.5s;
+
+}
+.fa-discord:hover{
+    font-size: 60px;
+}
+.login{
+    width: 500px;
+    height: 500px;
+    background-color: #fff;
+    margin-left: 30cm;
+    margin-top: -14cm;
+    background-image: url("Jamer.jpg");
+    border-radius: 10px;
+    
+}
+.logtext{
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: yellow;
+    transform: translateY(0.4cm);
+    text-shadow: 2px 2px 30px black;
+}
+.login input{
+    display: flex;
+    margin-top: 1cm;
+    width: 350px;
+    height: 50px;
+    text-align: center;
+    margin-left: 2cm;
+    margin-top: 2cm;
+    font-family: "KA_LORTKIPANIDZE", sans-serif;
+    border-radius: 0.3cm;    
+    border: none;
+    transition: 0.5s;
+    font-size: 25px;
+    
+
+    border-top-style: hidden;
+        border-right-style: hidden;
+        border-left-style: hidden;
+        border-bottom-style: groove;
+}
+
+.login input:hover{
+    border-radius:0.6cm ;
+
+    
+
+}
+.forgot-password{
+    text-decoration: none;
+    font-family:Georgia, 'Times New Roman', Times, serif !important;
+    color: #fff;
+    font-size: 20px;
+    margin-left: 2.1cm;
+    transition: 0.3s;
+}
+.forgot-password:hover{
+    text-decoration: underline;
+    color: rgb(9, 9, 114);
+    
+}
+ 
+.logjamer{
+    width:150px;
+    height: 50px;
+    transform: translate(-1.5cm,2cm);
+    font-size: 20px;
+    font-family: "KA_LORTKIPANIDZE", sans-serif;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.5s;
+    text-shadow: 1px 1px 100px black;
+}
+.logjamer:hover{
+    color: black;
+    background-color: red;
+    font-weight: 800;
+}
